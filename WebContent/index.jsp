@@ -8,6 +8,6 @@
 <title>Dockerization of Java Web Application</title>
 </head>
 <body>
-    <h1>Dockerization of Java Web Application a</h1>
+    <h1>Dockerization of Java Web Application </h1>
 </body>
 </html>
